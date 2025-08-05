@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "248999239085",
+    "project_id": "csp-project-c3977",
+    "storage_bucket": "csp-project-c3977.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248999239085:android:3a048d3f3a1debdab89524",
+        "android_client_info": {
+          "package_name": "com.example.project_csp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248999239085-g16rd6kb6bsebegfaeo7ajlg6hl35kbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKEuOdvONKRi40X7IlGjm98EN21y3k9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248999239085-g16rd6kb6bsebegfaeo7ajlg6hl35kbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248999239085-c9i93ipspu634h4hgkmdkoj39ke0fung.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectCsp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
